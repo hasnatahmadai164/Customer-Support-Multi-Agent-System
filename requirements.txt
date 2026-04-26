@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-community
+langchain-openai
+langchain-pinecone
+openai
+pinecone
+pypdf
+unicorn
+fastapi
+python-dotenv
+
